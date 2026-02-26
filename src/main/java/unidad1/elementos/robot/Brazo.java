@@ -9,6 +9,7 @@ public class Brazo {
     public static void main(String[] args) {
 
         Brazo brazo = new Brazo();
+        brazo.setTipoMovimiento("Elevarse en Y");
 
 
     }
@@ -18,5 +19,14 @@ public class Brazo {
     public void abrirGarra(){}
 
     public void cerrarGarra(){}
+
+
+    public void setTipoMovimiento(String tipoMovimiento) {
+        this.tipoMovimiento = tipoMovimiento;
+    }
+
+    public String getTipoMovimiento() {
+        return tipoMovimiento;
+    }
 
 }
