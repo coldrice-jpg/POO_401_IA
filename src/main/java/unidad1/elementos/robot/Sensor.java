@@ -9,8 +9,10 @@ public class Sensor {
 
         Sensor sensor = new Sensor();
 
-        public float leerValor();
+    }
 
+    public float leerValor(){
+        return 0;
     }
 
 }

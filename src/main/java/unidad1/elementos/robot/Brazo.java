@@ -10,12 +10,14 @@ public class Brazo {
 
         Brazo brazo = new Brazo();
 
-        public void asignarMovimiento();
 
-        public void abrirGarra();
-
-        public void cerrarGarra();
 
     }
+
+    public void asignarMovimiento(){}
+
+    public void abrirGarra(){}
+
+    public void cerrarGarra(){}
 
 }

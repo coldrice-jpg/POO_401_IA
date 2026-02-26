@@ -9,8 +9,8 @@ public class Motor {
 
         Motor motor = new Motor();
 
-        public void encenderMotor();
-
     }
+
+    public void encenderMotor(){}
 
 }

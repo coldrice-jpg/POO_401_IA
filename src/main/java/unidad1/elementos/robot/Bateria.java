@@ -9,8 +9,11 @@ public class Bateria {
 
         Bateria bateria = new Bateria();
 
-        public double getNivelCarga();
 
+    }
+
+    public double getNivelCarga(){
+        return 0;
     }
 
 }
