@@ -4,6 +4,7 @@ public class Bateria {
 
     private int capacidad;
 
+
     public static void main(String[] args) {
 
         Bateria bateria = new Bateria();

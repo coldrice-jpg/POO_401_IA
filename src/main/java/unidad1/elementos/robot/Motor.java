@@ -4,6 +4,7 @@ public class Motor {
 
     private double potencia;
 
+
     public static void main(String[] args) {
 
         Motor motor = new Motor();

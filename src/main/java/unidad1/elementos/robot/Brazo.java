@@ -5,7 +5,6 @@ public class Brazo {
     private String tipoMovimiento;
     private float velocidad;
 
-
     // Metodos
     public static void main(String[] args) {
 

@@ -4,6 +4,7 @@ public class Sensor {
 
     private boolean activo;
 
+
     public static void main(String[] args) {
 
         Sensor sensor = new Sensor();
