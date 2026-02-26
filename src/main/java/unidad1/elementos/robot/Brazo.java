@@ -11,7 +11,6 @@ public class Brazo {
         Brazo brazo = new Brazo();
 
 
-
     }
 
     public void asignarMovimiento(){}

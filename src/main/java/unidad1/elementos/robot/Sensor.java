@@ -11,6 +11,7 @@ public class Sensor {
 
     }
 
+
     public float leerValor(){
         return 0;
     }
