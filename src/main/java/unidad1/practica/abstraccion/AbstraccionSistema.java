@@ -38,10 +38,11 @@ class AnalizadorSentimientos extends AbstraccionSistema {
         System.out.println("[INFO] Tokenizando texto...");
         System.out.println("[INFO] Extrayendo embeddings semánticos...");
 
-        if (texto.toLowerCase().contains("feliz") || texto.toLowerCase().contains("bueno")) {
+        if (texto.toLowerCase().contains("feliz") || texto.toLowerCase().contains("bueno") || texto.toLowerCase().contains("bonito")
+        || texto.toLowerCase().contains("genial") || texto.toLowerCase().contains("polluelo")) {
             System.out.println("RESULTADO: Sentimiento Positivo (Score: " + Math.random() + ")");
         } else {
-            System.out.println("RESULTADO: Sentimiento Negativo o Neutro.");
+            System.out.println("RESULTADO: Sentimiento Neutro o Negativo.");
         }
     }
 
@@ -58,6 +59,12 @@ class Main{
 
         modelo.analizar("Hoy es un día muy bueno y estoy feliz");
         modelo.analizar("El servicio fue terrible");
+        modelo.analizar("El baile no estuvo bueno");
+        modelo.analizar("Que bonito regalo");
+        modelo.analizar("Mira ese polluelo");
+        modelo.analizar("Que triste tu vida");
+        modelo.analizar("El esta feo");
+        modelo.analizar("Tu cumpleaños estuvo aburrido");
     }
 
 }
