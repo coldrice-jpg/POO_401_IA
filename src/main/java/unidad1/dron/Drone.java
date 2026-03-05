@@ -19,6 +19,5 @@ public class Drone {
     public void mostrarestado() {
         System.out.println("Batería del " + id + ": " + nivelbateria + "%");
     }
-
 }
 
