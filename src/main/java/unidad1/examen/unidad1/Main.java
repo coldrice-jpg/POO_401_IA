@@ -14,7 +14,7 @@ public class Main {
         listaDePagos.add(new PagoTarjeta(2100.00));
 
         // Aqui aplico polimorfismo para procesar los pagos
-        for (SistemaPagos p : listaDePagos){
+        for (SistemaPagos p : listaDePagos) {
             p.procesarPago();
         }
     }

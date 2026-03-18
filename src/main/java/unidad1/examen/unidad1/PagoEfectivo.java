@@ -1,7 +1,7 @@
 package main.java.unidad1.examen.unidad1;
 
 // En esta clase tambien aplicamos herencia
-public class PagoEfectivo extends SistemaPagos{
+public class PagoEfectivo extends SistemaPagos {
 
     public PagoEfectivo(double montoAPagar) {
         super(montoAPagar);

@@ -5,7 +5,7 @@ public abstract class SistemaPagos {
 
     private final double montoAPagar;
 
-    public SistemaPagos(double montoAPagar){
+    public SistemaPagos(double montoAPagar) {
         this.montoAPagar = montoAPagar;
 
     }
