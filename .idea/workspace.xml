@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04">
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/SensorIA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/SensorLidar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/SensorUltrasonido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/SensorVision.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;coldrice-jpg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/coldrice-jpg/POO_401_IA.git&quot;,
+    &quot;accountId&quot;: &quot;c6060ac7-3b66-4301-a3a6-2581af644b67&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3BAQVLL6KeE5leqEFwLf3PjJSFO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.unidad2.abstraccion.sensores1.Main.executor": "Run",
+    "Maven.mi-proyecto [clean].executor": "Run",
+    "Maven.mi-proyecto [compile].executor": "Run",
+    "Maven.mi-proyecto [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "#4 on desarrollo/unidad2",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alexi/Documents/POO_401_IA",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.unidad2.abstraccion.sensores1.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad2.abstraccion.sensores.Main" />
+      <module name="mi-proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unidad2.abstraccion.sensores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unidad2.abstraccion.sensores1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad2.abstraccion.sensores1.Main" />
+      <module name="mi-proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unidad2.abstraccion.sensores1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.unidad2.abstraccion.sensores1.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="" />
+      <created>1773929417819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773929417819</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Practica 04">
+      <option name="closed" value="true" />
+      <created>1774014669514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774014669514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practica 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practica 04" />
+  </component>
+</project>
