@@ -10,9 +10,20 @@ public class Main {
 
         List<SensorIA> percepcionHD = new ArrayList<>();
 
-        percepcionHD.add(new SensorLidar());
-        percepcionHD.add(new SensorVision());
-        percepcionHD.add(new SensorUltrasonido());
+        SensorLidar obj1 = new SensorLidar();
+        SensorLidar obj2 = new SensorLidar();
+        SensorVision obj3 = new SensorVision();
+        SensorVision obj4 = new SensorVision();
+        SensorUltrasonido obj5 = new SensorUltrasonido();
+        SensorUltrasonido obj6 = new SensorUltrasonido();
+
+
+        percepcionHD.add(obj1);
+        percepcionHD.add(obj2);
+        percepcionHD.add(obj3);
+        percepcionHD.add(obj4);
+        percepcionHD.add(obj5);
+        percepcionHD.add(obj6);
 
         for (SensorIA f : percepcionHD){
             f.leerDatos();
