@@ -15,6 +15,7 @@ public class Main {
         SensorVision obj4 = new SensorVision("1.9", 2.01);
         SensorUltrasonido obj5 = new SensorUltrasonido("1.43", 1.54);
         SensorUltrasonido obj6 = new SensorUltrasonido("1.92", 1.26);
+        obj1 = new SensorLidar("1.2", 1.5);
 
 
         percepcionHD.add(obj1);
@@ -23,6 +24,9 @@ public class Main {
         percepcionHD.add(obj4);
         percepcionHD.add(obj5);
         percepcionHD.add(obj6);
+        percepcionHD.add(obj1);
+
+
 
         for (SensorIA f : percepcionHD){
             f.leerDatos();
