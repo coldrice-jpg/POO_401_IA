@@ -8,6 +8,7 @@ public abstract class ProcesadorNLP {
     private String textoCrudo;
 
     public void cargarTexto(String texto) {
+        this.textoCrudo = texto;
 
     }
 
