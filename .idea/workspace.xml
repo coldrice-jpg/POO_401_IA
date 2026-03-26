@@ -68,13 +68,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.unidad2.abstraccion.sensores1.Main">
+  <component name="RunManager" selected="Application.unidad2.abstraccion.procesadores.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unidad2.abstraccion.sensores.Main" />
       <module name="mi-proyecto" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="unidad2.abstraccion.sensores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unidad2.abstraccion.procesadores.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad2.abstraccion.procesadores.Main" />
+      <module name="mi-proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unidad2.abstraccion.procesadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.unidad2.abstraccion.procesadores.Main" />
         <item itemvalue="Application.unidad2.abstraccion.sensores1.Main" />
         <item itemvalue="Application.Main" />
       </list>

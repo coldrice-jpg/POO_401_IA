@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String Texto = "El modelo es exelente, es un modelo muy bueno y genial. Tambien es impresionante.";
+        String texto = "El modelo es exelente, es un modelo muy bueno y genial. Tambien es impresionante.";
 
         List<ProcesadorNLP> procesadores = new ArrayList<>();
 
@@ -16,12 +16,11 @@ public class Main {
 
         for (ProcesadorNLP p : procesadores) {
             System.out.println("\n=== Procesador " + p.getClass().getSimpleName() + "===");
-            p.cargarTexto(Texto);
-            p.limpiarTexto();
-            List<String> tokens = p.tokenizar();
+
+            p.cargarTexto(texto);
+            p.procesarTexto();
             Object resultado = p.transformarParaModelo();
 
-            System.out.println("Tokens: " + tokens);
             System.out.println("Resultados: " + resultado);
 
         }
