@@ -1,9 +1,8 @@
-package unidad2.abstraccion.procesadores;
+package unidad2.practica01.abstraccion.procesadores;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.concurrent.TimeoutException;
 
 public class ProcesadorSimple extends ProcesadorNLP {
 

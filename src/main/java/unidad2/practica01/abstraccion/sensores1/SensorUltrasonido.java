@@ -1,4 +1,4 @@
-package unidad2.abstraccion.sensores1;
+package unidad2.practica01.abstraccion.sensores1;
 
 public class SensorUltrasonido extends SensorIA {
 
