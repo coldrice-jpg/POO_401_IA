@@ -1,4 +1,4 @@
-package unidad2.practica01.abstraccion.sensores;
+package unidad2.abstraccion.sensores;
 
 public abstract class SensorIA {
 

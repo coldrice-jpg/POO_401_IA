@@ -1,4 +1,4 @@
-package unidad2.practico03;
+package unidad2.interfaces.practica03;
 
 public class SerializableModelo {
 
