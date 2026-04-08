@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04">
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/interfaces/practica04/EjemploCargaMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/interfaces/practica04/LLM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/procesadores/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/procesadores/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/procesadores/ProcesadorAnalisisSentimiento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/procesadores/ProcesadorAnalisisSentimiento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/procesadores/ProcesadorNLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/procesadores/ProcesadorNLP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/procesadores/ProcesadorSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/procesadores/ProcesadorSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores/SensorIA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores/SensorIA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores/SensorLidar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores/SensorLidar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores/SensorUltrasonido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores/SensorUltrasonido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores/SensorVision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores/SensorVision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores1/SensorIA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/SensorIA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores1/SensorLidar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/SensorLidar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores1/SensorUltrasonido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/SensorUltrasonido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/abstraccion/sensores1/SensorVision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/abstraccion/sensores1/SensorVision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica01/interfaces/Entrenable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/interfaces/practica01/Entrenable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica02/tokenizador/Tokenizador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/interfaces/practica02/Tokenizador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practica02/tokenizador/TokenizadorIMLP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/interfaces/practica02/TokenizadorIMLP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/practico03/SerializableModelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/interfaces/practica03/SerializableModelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/interfaces/practica05/ProcesadorListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
