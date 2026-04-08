@@ -25,6 +25,19 @@ public class ProcesadorListas {
         }
 
         Scanner cs = new Scanner(System.in);
+        String fruta = cs.nextLine();
+
+        // Validar fruta ingresada
+        do {
+            if (fruta.isEmpty()) {
+                System.out.println("Ingresa una fruta válida:");
+                fruta = cs.nextLine();
+            } else {
+                bandera = false;
+            }
+        } while (bandera);
+
+        System.out.println("Fruta ingresada: " + fruta);
 
 
     }
