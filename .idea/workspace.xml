@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04">
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/ejercicios/base/AnalizadorDeNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/ejercicios/base/SistemaCalificaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/ejercicios/base/CalculadoraEdad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/unidad2/abstraccion/procesadores/ProcesadorSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/unidad2/abstraccion/procesadores/ProcesadorSimple.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnalizadorDeNumeros.executor": "Run",
+    "Application.CalculadoraEdad.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SistemaCalificaciones.executor": "Run",
     "Application.unidad2.abstraccion.procesadores.Main.executor": "Run",
@@ -72,7 +72,12 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AnalizadorDeNumeros">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexi\Documents\POO_401_IA" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CalculadoraEdad">
     <configuration name="AnalizadorDeNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unidad2.ejercicios.base.AnalizadorDeNumeros" />
       <module name="mi-proyecto" />
@@ -86,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unidad2.abstraccion.sensores.Main" />
+    <configuration name="CalculadoraEdad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad2.ejercicios.base.CalculadoraEdad" />
       <module name="mi-proyecto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unidad2.abstraccion.sensores.*" />
+          <option name="PATTERN" value="unidad2.ejercicios.base.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculadoraEdad" />
         <item itemvalue="Application.AnalizadorDeNumeros" />
         <item itemvalue="Application.SistemaCalificaciones" />
         <item itemvalue="Application.unidad2.abstraccion.procesadores.Main" />
         <item itemvalue="Application.unidad2.abstraccion.sensores1.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
