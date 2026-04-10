@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04">
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/ejercicio/emilio/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/ejercicio/emilio/FiguraGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/ejercicio/emilio/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/ejercicio/emilio/Rectangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/unidad2/ejercicio/emilio/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/unidad2/ejercicio/emilio/Circulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,32 +46,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnalizadorDeNumeros.executor": "Run",
-    "Application.CalculadoraEdad.executor": "Run",
-    "Application.CalculadoraPromedio.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.SistemaCalificaciones.executor": "Run",
-    "Application.unidad2.abstraccion.procesadores.Main.executor": "Run",
-    "Application.unidad2.abstraccion.sensores1.Main.executor": "Run",
-    "Maven.mi-proyecto [clean].executor": "Run",
-    "Maven.mi-proyecto [compile].executor": "Run",
-    "Maven.mi-proyecto [install].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#4 on desarrollo/unidad2",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/alexi/Documents/POO_401_IA",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnalizadorDeNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraEdad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraPromedio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemaCalificaciones.executor&quot;: &quot;Run&quot;,
+    &quot;Application.unidad2.abstraccion.procesadores.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.unidad2.abstraccion.sensores1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mi-proyecto [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mi-proyecto [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mi-proyecto [install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#4 on desarrollo/unidad2&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alexi/Documents/POO_401_IA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alexi\Documents\POO_401_IA" />
