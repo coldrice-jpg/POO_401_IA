@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04" />
+    <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04">
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/excepciones/EjemploArithmeticException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/excepciones/EjemploArraysIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/excepciones/NullPointerExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/listas/DatasetManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +56,8 @@
     "Application.CalculadoraEdad.executor": "Run",
     "Application.CalculadoraPromedio.executor": "Run",
     "Application.CuentaBancaria.executor": "Run",
+    "Application.DatasetManager.executor": "Run",
+    "Application.EjemploArraysIndex.executor": "Run",
     "Application.Libro.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SistemaCalificaciones.executor": "Run",
@@ -77,39 +85,39 @@
       <recent name="C:\Users\alexi\Documents\POO_401_IA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CuentaBancaria">
-    <configuration name="CalculadoraEdad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unidad2.ejercicios.base.CalculadoraEdad" />
-      <module name="mi-proyecto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unidad2.ejercicios.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculadoraPromedio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unidad2.ejercicios.base.CalculadoraPromedio" />
-      <module name="mi-proyecto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unidad2.ejercicios.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DatasetManager">
     <configuration name="CuentaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unidad2.aprendizaje.independiente.actividad02.CuentaBancaria" />
       <module name="mi-proyecto" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="unidad2.aprendizaje.independiente.actividad02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatasetManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad3.listas.DatasetManager" />
+      <module name="mi-proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unidad3.listas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploArraysIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad3.excepciones.EjemploArraysIndex" />
+      <module name="mi-proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unidad3.excepciones.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DatasetManager" />
+        <item itemvalue="Application.EjemploArraysIndex" />
         <item itemvalue="Application.CuentaBancaria" />
         <item itemvalue="Application.Libro" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CalculadoraPromedio" />
-        <item itemvalue="Application.CalculadoraEdad" />
       </list>
     </recent_temporary>
   </component>
