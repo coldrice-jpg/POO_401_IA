@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04">
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/excepciones/EjemploArithmeticException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/excepciones/EjemploArraysIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/excepciones/NullPointerExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/listas/DatasetManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/listas/MonitorIA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +57,7 @@
     "Application.EjemploArraysIndex.executor": "Run",
     "Application.Libro.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MonitorIA.executor": "Run",
     "Application.SistemaCalificaciones.executor": "Run",
     "Application.unidad2.abstraccion.procesadores.Main.executor": "Run",
     "Application.unidad2.abstraccion.sensores1.Main.executor": "Run",
@@ -85,7 +83,7 @@
       <recent name="C:\Users\alexi\Documents\POO_401_IA" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DatasetManager">
+  <component name="RunManager" selected="Application.MonitorIA">
     <configuration name="CuentaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unidad2.aprendizaje.independiente.actividad02.CuentaBancaria" />
       <module name="mi-proyecto" />
@@ -138,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unidad2.ejercicio.emilio.Main" />
+    <configuration name="MonitorIA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad3.listas.MonitorIA" />
       <module name="mi-proyecto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unidad2.ejercicio.emilio.*" />
+          <option name="PATTERN" value="unidad3.listas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonitorIA" />
         <item itemvalue="Application.DatasetManager" />
         <item itemvalue="Application.EjemploArraysIndex" />
         <item itemvalue="Application.CuentaBancaria" />
         <item itemvalue="Application.Libro" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
