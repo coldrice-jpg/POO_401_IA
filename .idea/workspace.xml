@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04">
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/aprendizaje/independiente/actividad01/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/aprendizaje/independiente/actividad02/CuentaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/aprendizaje/independiente/actividad03y04/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/aprendizaje/independiente/actividad03y04/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/aprendizaje/independiente/actividad03y04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/aprendizaje/independiente/actividad03y04/Perro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/aprendizaje/independiente/actividad05/Avion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/aprendizaje/independiente/actividad05/PuedeVolar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#4 on desarrollo/unidad2",
+    "git-widget-placeholder": "desarrollo/unidad2",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/alexi/Documents/POO_401_IA",
