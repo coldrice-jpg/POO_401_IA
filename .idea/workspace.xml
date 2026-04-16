@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04">
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/practica/poo/CalculadoraEdad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/practica/poo/ControlAdicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/practica/poo/ManejoDeCiclos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/unidad2/practica/paradigma/Restaurante.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +60,8 @@
     "Application.CuentaBancaria.executor": "Run",
     "Application.Libro.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OperacionMatematica.executor": "Run",
+    "Application.Restaurante.executor": "Run",
     "Application.SistemaCalificaciones.executor": "Run",
     "Application.unidad2.abstraccion.procesadores.Main.executor": "Run",
     "Application.unidad2.abstraccion.sensores1.Main.executor": "Run",
@@ -91,7 +90,7 @@
       <recent name="unidad2.practica.poo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OperacionMatematica">
+  <component name="RunManager" selected="Application.Restaurante">
     <configuration name="ControlAdicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unidad2.practica.poo.ControlAdicional" />
       <module name="mi-proyecto" />
@@ -131,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unidad2.ejercicio.emilio.Main" />
-      <module name="mi-proyecto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unidad2.ejercicio.emilio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OperacionMatematica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unidad2.practica.poo.OperacionMatematica" />
       <module name="mi-proyecto" />
@@ -157,13 +143,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Restaurante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad2.practica.paradigma.Restaurante" />
+      <module name="mi-proyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unidad2.practica.paradigma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Restaurante" />
         <item itemvalue="Application.OperacionMatematica" />
         <item itemvalue="Application.ControlAdicional" />
         <item itemvalue="Application.CuentaBancaria" />
         <item itemvalue="Application.Libro" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
