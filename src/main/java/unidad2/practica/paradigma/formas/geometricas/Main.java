@@ -1,4 +1,4 @@
-package unidad2.practica.paradigma.formasgeometricas;
+package unidad2.practica.paradigma.formas.geometricas;
 
 public class Main {
     public static void main(String[] args) {
