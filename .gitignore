@@ -1,0 +1,15 @@
+# Compilador Java/Maven
+*.class
+target/
+
+# Configuracion local de IDE (no versionar)
+.idea/
+*.iml
+
+# Configuracion local de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos temporales del sistema
+.DS_Store
