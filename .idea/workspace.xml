@@ -90,7 +90,7 @@
       <recent name="unidad2.practica.poo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Restaurante">
+  <component name="RunManager" selected="Application.Empleado">
     <configuration name="ControlAdicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unidad2.practica.poo.ControlAdicional" />
       <module name="mi-proyecto" />
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Libro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unidad2.aprendizaje.independiente.actividad01.Libro" />
+    <configuration name="Empleado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad2.practica.paradigma.Empleado" />
       <module name="mi-proyecto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unidad2.aprendizaje.independiente.actividad01.*" />
+          <option name="PATTERN" value="unidad2.practica.paradigma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Empleado" />
         <item itemvalue="Application.Restaurante" />
         <item itemvalue="Application.OperacionMatematica" />
         <item itemvalue="Application.ControlAdicional" />
         <item itemvalue="Application.CuentaBancaria" />
-        <item itemvalue="Application.Libro" />
       </list>
     </recent_temporary>
   </component>
