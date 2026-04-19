@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d88671c3-c84e-494c-9b99-0670619b1dc2" name="Changes" comment="Practica 04">
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/genericos/Modelo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/genericos/contextualizacion01/ProcesadorDeDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unidad3/genericos/version2/Modelo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,42 +51,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AnalizadorDeNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraEdad.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraPromedio.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContadorTokenOptimizado.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ControlAdicional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CuentaBancaria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Empleado.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GeneradorVocabulario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Libro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperacionMatematica.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RedNeuronalMemory.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Restaurante.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SensorTracker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SistemaCalificaciones.executor&quot;: &quot;Run&quot;,
-    &quot;Application.unidad2.abstraccion.procesadores.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.unidad2.abstraccion.sensores1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.mi-proyecto [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.mi-proyecto [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.mi-proyecto [install].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;desarrollo/unidad3&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alexi/Documents/POO_401_IA&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnalizadorDeNumeros.executor": "Run",
+    "Application.CalculadoraEdad.executor": "Run",
+    "Application.CalculadoraPromedio.executor": "Run",
+    "Application.ContadorTokenOptimizado.executor": "Run",
+    "Application.ControlAdicional.executor": "Run",
+    "Application.CuentaBancaria.executor": "Run",
+    "Application.Empleado.executor": "Run",
+    "Application.GeneradorVocabulario.executor": "Run",
+    "Application.Libro.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OperacionMatematica.executor": "Run",
+    "Application.RedNeuronalMemory.executor": "Run",
+    "Application.Restaurante.executor": "Run",
+    "Application.SensorTracker.executor": "Run",
+    "Application.SistemaCalificaciones.executor": "Run",
+    "Application.unidad2.abstraccion.procesadores.Main.executor": "Run",
+    "Application.unidad2.abstraccion.sensores1.Main.executor": "Run",
+    "Maven.mi-proyecto [clean].executor": "Run",
+    "Maven.mi-proyecto [compile].executor": "Run",
+    "Maven.mi-proyecto [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "#5 on desarrollo/unidad3",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alexi/Documents/POO_401_IA",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alexi\Documents\POO_401_IA" />
@@ -98,7 +95,7 @@
       <recent name="unidad2.practica.poo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SensorTracker">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ContadorTokenOptimizado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unidad3.mapas.ContadorTokenOptimizado" />
       <module name="mi-proyecto" />
@@ -125,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecetaDeCocina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unidad2.practica.ciclos.RecetaDeCocina" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad3.tarea.practica04.Main" />
       <module name="mi-proyecto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unidad2.practica.ciclos.*" />
+          <option name="PATTERN" value="unidad3.tarea.practica04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SensorTracker" />
         <item itemvalue="Application.GeneradorVocabulario" />
         <item itemvalue="Application.RedNeuronalMemory" />
         <item itemvalue="Application.ContadorTokenOptimizado" />
-        <item itemvalue="Application.RecetaDeCocina" />
       </list>
     </recent_temporary>
   </component>
